@@ -1,0 +1,12 @@
+{
+    "name": "Red Circle Man",
+    "spriteSheetImage": "./RedCircleMan.png",
+    "spriteWidth": 400,
+    "spriteHeight": 400,
+    "animations": [
+        { 
+            "name": "FORWARD",
+            "frames": [ {"index": 0, "duration":1}]
+	}
+   ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "desert",
+    "spriteSheetImage": "./desert.png",
+    "spriteWidth": 64,
+    "spriteHeight": 64,
+    "animations": [
+        { 
+            "name": "DESERT",
+	    "repeat":false,
+            "frames": [{"index": 0, "duration":1}]
+        }
+    ]
+}

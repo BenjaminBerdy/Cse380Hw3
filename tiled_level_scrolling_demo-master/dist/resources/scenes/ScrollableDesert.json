@@ -1,0 +1,17 @@
+{
+    "mapPath" : "resources/maps/desert/desert.json",
+    "shaderSourcePaths" : [
+        {"name":"SPRITE_VERTEX_SHADER", "path" : "resources/shaders/sprite/Sprite.vs"},
+        {"name":"SPRITE_FRAGMENT_SHADER", "path" : "resources/shaders/sprite/Sprite.fs"},
+        {"name":"TILED_LAYER_VERTEX_SHADER", "path" : "resources/shaders/tiledlayer/TiledLayer.vs"},
+        {"name":"TILED_LAYER_FRAGMENT_SHADER", "path" : "resources/shaders/tiledlayer/TiledLayer.fs"}
+    ],
+    "spriteTypePaths" : [
+        {"name":"MULTI_COLOR_BLOCK", "path" : "resources/animated_sprites/MultiColorBlock/MultiColorBlock.json"},
+        {"name":"RED_CIRCLE_MAN", "path" : "resources/animated_sprites/RedCircleMan/RedCircleMan.json" },
+        {"name":"DEVILS_FLOWER_MANTIS", "path" : "resources/animated_sprites/devilsFlowerMantis/devils_flower_mantis.json" },
+        {"name":"FLOWER_MANTIS", "path" : "resources/animated_sprites/flowerMantis/flower_mantis.json" },
+        {"name":"BEE_LARVAE2", "path" : "resources/animated_sprites/bee_larvae2/bee_larvae2.json" },
+        {"name":"DESERT", "path" : "resources/animated_sprites/desert/desert.json" }
+    ]
+}
